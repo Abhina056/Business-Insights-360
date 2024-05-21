@@ -69,7 +69,7 @@ In Home view, we have the navigation buttons to all views.
 - Info
 - Support
 
-<img src= "https://github.com/Abhina056/Business-Insights-360/blob/main/Project_Screenshot2_updated.png" class="center">
+<img src= "https://github.com/Abhina056/Business-Insights-360/blob/main/Home%20Page.png" class="center">
 
 
 ## Finance View
